@@ -89,6 +89,3 @@ A combinação entre faturamento, dimensões de clientes, datas de compra e marc
 - Caso sejam dados reais de clientes, considere substituir os arquivos por versões anonimizadas ou sintéticas e revisar os campos e relacionamentos antes da publicação.
 - O GitHub hospeda o arquivo `.pbix`, mas não disponibiliza o painel interativo diretamente na página do repositório.
 
----
-
-**Projeto de portfólio | Power BI · Business Intelligence · Análise de Vendas**
